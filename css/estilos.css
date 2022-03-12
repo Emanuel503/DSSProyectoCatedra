@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'Mukta';
+    src: url("../fonts/Mukta-ExtraLight.ttf");
+}
+
+body{
+    background-color: rgb(134, 134, 134);
+    font-family: 'Mukta';
+}
+
+.login{
+    margin-top: 100px;
+    background-color: rgb(202, 202, 202);
+    padding: 20px 50px;
+}
+
+.login > img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
