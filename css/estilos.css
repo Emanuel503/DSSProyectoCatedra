@@ -4,13 +4,13 @@
 }
 
 body{
-    background-color: rgb(134, 134, 134);
+    background-color: #E9E9E9;
     font-family: 'Mukta';
 }
 
 .login{
     margin-top: 100px;
-    background-color: rgb(202, 202, 202);
+    background-color: #c3c3c3;
     padding: 20px 50px;
 }
 
@@ -18,4 +18,47 @@ body{
     display: block;
     margin: auto;
     width: 50%;
+}
+
+.nav-item{
+    margin-right: 15px;
+}
+
+.content{
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+.btn-pdf{
+    float: right;
+}
+
+.submenu a{
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+    margin: 4px;   
+}
+
+.submenu-selected{
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+    margin: 4px;
+    background-color: #c3c3c3;
+}
+
+.submenu a:hover{
+    color: black;
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+    margin: 4px;
+    background-color: #c3c3c3;
+}
+
+footer{
+    margin-top: 600px;
 }

@@ -1,6 +1,6 @@
     
     </div>
-    <footer class="bg-dark text-center text-white">
+    <footer id="footer" class="bg-dark text-center text-white">
         <div class="container p-4">
             <section class="mb-4">
                 <a class="btn btn-dark m-1" href="" role="button">
@@ -27,13 +27,10 @@
 
             <section class="mb-4">
                 <p>
-                Sistema de control de prestamos de libros en biblioteca para un mejor gestion y control de los libros disponibles, pestados, etc.
+                Sistema de control de prestamos de libros en biblioteca para un mejor gestion y control de los libros disponibles, pestados, etc.<br>
+                © 2021 Copyright<br>Creador: Emanuel Molina
                 </p>
             </section>
-            
-        <div class="text-center p-3" >
-            © 2021 Copyright<br>Creador: Emanuel Molina
-        </div>
     </footer>
     <script src="js/jquery-1.11.2.min.js"></script>
     <script src="js/funciones.js"></script>
